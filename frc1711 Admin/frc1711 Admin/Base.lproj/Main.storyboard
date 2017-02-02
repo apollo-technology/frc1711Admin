@@ -9,7 +9,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--View Controller-->
+        <!--frc1711 Admin-->
         <scene sceneID="TaL-AQ-qAP">
             <objects>
                 <viewController id="2zk-jS-33u" sceneMemberID="viewController">
@@ -22,7 +22,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                     </view>
-                    <navigationItem key="navigationItem" id="350-7p-SiL"/>
+                    <navigationItem key="navigationItem" title="frc1711 Admin" id="350-7p-SiL"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="z5j-k4-9wR" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -46,11 +46,11 @@
             </objects>
             <point key="canvasLocation" x="-302" y="140"/>
         </scene>
-        <!--Item 1-->
+        <!--Home-->
         <scene sceneID="v71-0B-ZmD">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="0tt-YS-KNp" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item 1" id="SQG-Lh-SNN"/>
+                    <tabBarItem key="tabBarItem" title="Home" id="SQG-Lh-SNN"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="vMj-qo-1DU">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
